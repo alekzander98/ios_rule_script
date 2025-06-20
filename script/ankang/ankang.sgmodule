@@ -12,6 +12,7 @@ IP-CIDR,59.110.218.149/32,DIRECT,no-resolve
 IP-CIDR,142.171.239.171/32,DIRECT,no-resolve
 # 域名
 DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
+## PT
 DOMAIN-SUFFIX,m-team.cc,DIRECT
 DOMAIN-SUFFIX,m-team.io,DIRECT
 DOMAIN-SUFFIX,audiences.me,DIRECT
@@ -30,3 +31,5 @@ DOMAIN-SUFFIX,carpt.net,DIRECT
 DOMAIN-SUFFIX,pttime.org,DIRECT
 DOMAIN-SUFFIX,ptcafe.club,DIRECT
 DOMAIN-SUFFIX,hdatmos.club,DIRECT
+## Navidrome
+DOMAIN-SUFFIX,mefun.org,PROXY
