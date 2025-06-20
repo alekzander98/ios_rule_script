@@ -45,7 +45,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 | [哲也同学](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zheye) | 之乎者也                             | MagicJS 3   | 正常     |
 | [Synology](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology) | 群晖Download Station资源离线下载     | MagicJS 3   | 正常     |
 | [AppleStore](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore) | AppleStore 商品库存监控              | MagicJS 3   | 暂停     |
-| [Ankang](https://github.com/alekzander98/ios_rule_script/tree/master/script/applestore) | Ankang | MagicJS 3   | 正常 |
+| [Ankang](https://github.com/alekzander98/ios_rule_script/tree/master/script/ankang) | Ankang | MagicJS 3   | 正常 |
 
 #### Quantumult X Gallery
 
