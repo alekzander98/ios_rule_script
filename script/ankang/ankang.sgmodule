@@ -1,0 +1,32 @@
+#!name=Ankang
+#!desc=自定义模块
+#!author=alekzander98
+#!homepage=https://github.com/alekzander98/ios_rule_script
+#!category=alekzander98
+
+[Rule]
+# VPS
+DOMAIN-SUFFIX,ankang.site,DIRECT
+DOMAIN-SUFFIX,ankang.online,DIRECT
+IP-CIDR,59.110.218.149/32,DIRECT,no-resolve
+IP-CIDR,142.171.239.171/32,DIRECT,no-resolve
+# 域名
+DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
+DOMAIN-SUFFIX,m-team.cc,DIRECT
+DOMAIN-SUFFIX,m-team.io,DIRECT
+DOMAIN-SUFFIX,audiences.me,DIRECT
+DOMAIN-SUFFIX,hhanclub.top,DIRECT
+DOMAIN-SUFFIX,ubits.club,DIRECT
+DOMAIN-SUFFIX,qingwapt.com,DIRECT
+DOMAIN-SUFFIX,agsvpt.com,DIRECT
+DOMAIN-SUFFIX,zmpt.cc,DIRECT
+DOMAIN-SUFFIX,soulvoice.club,DIRECT
+DOMAIN-SUFFIX,crabpt.vip,DIRECT
+DOMAIN-SUFFIX,hdarea.club,DIRECT
+DOMAIN-SUFFIX,btschool.club,DIRECT
+DOMAIN-SUFFIX,star-space.net,DIRECT
+DOMAIN-SUFFIX,hdfans.org,DIRECT
+DOMAIN-SUFFIX,carpt.net,DIRECT
+DOMAIN-SUFFIX,pttime.org,DIRECT
+DOMAIN-SUFFIX,ptcafe.club,DIRECT
+DOMAIN-SUFFIX,hdatmos.club,DIRECT
